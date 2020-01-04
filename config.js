@@ -1,19 +1,23 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://kwansikdev.github.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by kwansikdev',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
       label: 'Articles',
       path: '/'
+    },
+    {
+      label: 'Tags',
+      path: '/tags'
     },
     {
       label: 'About me',
@@ -25,19 +29,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'kwansik Kim / Austin',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'FrontEnd Web Devleoper',
     contacts: {
       email: '',
       facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      telegram: '',
+      twitter: '',
+      github: 'kwansikdev',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: 'kkwans__',
       line: '',
       gitlab: '',
       weibo: '',
