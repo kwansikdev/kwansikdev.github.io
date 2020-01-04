@@ -6,7 +6,7 @@ module.exports = {
   title: 'Blog by kwansikdev',
   subtitle: '',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'kwansikdev',
   postsPerPage: 4,
   googleAnalyticsId: '',
   useKatex: false,
@@ -29,7 +29,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'kwansik Kim / Austin',
+    name: 'Kwansik Kim / Austin',
     photo: '/photo.jpg',
     bio: 'FrontEnd Web Devleoper',
     contacts: {

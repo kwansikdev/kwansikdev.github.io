@@ -1,4 +1,4 @@
-/** 
+/**
  * Generic
  */
 html {
@@ -109,7 +109,7 @@ strong {
 }
 
 ul {
-  list-style: square;
+  list-style: none;
   @include margin-bottom(1);
 
   & li {
@@ -152,6 +152,7 @@ figcaption {
 }
 
 @include breakpoint-sm {
+
   figure.float-left,
   figure.float-right {
     max-width: 310px;
