@@ -1,6 +1,8 @@
 @import '../../../assets/scss/variables';
 @import '../../../assets/scss/mixins';
 
+
+
 .content {
   max-width: $layout-post-single-width;
   padding: 0 15px;
@@ -41,7 +43,7 @@
     }
 
     & a {
-      text-decoration: underline
+      text-decoration: none
     }
 
     & * {

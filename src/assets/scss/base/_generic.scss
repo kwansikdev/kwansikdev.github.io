@@ -92,7 +92,8 @@ hr {
 }
 
 a {
-  color: $typographic-link-p-font-color;
+  // color: $typographic-link-p-font-color;
+  color: #f99;
   text-decoration: none;
 
   &:hover,
@@ -152,7 +153,7 @@ code {
   padding: 3px 5px;
   font-size: 1.6rem;
   border-radius: 2px;
-  background-color: #f8f8f8;
+  // background-color: #f8f8f8;
 }
 
 .anchor {
