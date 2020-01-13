@@ -9,14 +9,17 @@ tags:
   - 'Gatsby'
   - 'Blog'
 description: 'Basic Form'
-socialImage: ''
+socialImage: '/images/react_png.png'
 ---
+
+![react_png](/images/react_png.png)
 
 # First Post
 
 ## <br />
 
 [code](#code)
+
 [Basic form](#basic-form)
 
 <br />
